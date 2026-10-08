@@ -1,0 +1,6 @@
+{
+  "name": "Cleaning Angola — Limpeza e Higienização em Luanda",
+  "description": "Cleaning Angola — limpeza e higienização profissional de sofás, tapetes, colchões e interiores de carros em Luanda. Peça o seu orçamento grátis pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
